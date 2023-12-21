@@ -50,7 +50,7 @@ like applying [digital make-up](https://github.com/ageitgey/face_recognition/blo
 
 #### Identify faces in pictures
 
-Recognize who appears in each photo.
+Identify the individuals present in each photograph using facial recognition technology.
 
 ![](https://cloud.githubusercontent.com/assets/896692/23625229/45e049b6-025d-11e7-89cc-8a71cf89e713.png)
 
